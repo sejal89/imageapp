@@ -13,7 +13,7 @@
       {
         "src": "/(.*)",
         "dest": "/imageupload/manage.py"
-      }
+      },{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
     ]
   }
   
