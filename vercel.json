@@ -16,7 +16,7 @@
         },
         {
             "src": "/(.*)",
-            "dest": "imageupload/wsgi.py"
+            "dest": "imageupload/manage.py"
         }
     ]
 }
